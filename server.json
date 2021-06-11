@@ -1,0 +1,96 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 3
+    },
+    {
+      "id": 4,
+      "amount": 11
+    },
+    {
+      "id": 5,
+      "amount": 23
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 19
+    },
+    {
+      "id": 8,
+      "amount": 19
+    },
+    {
+      "id": 9,
+      "amount": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title":  "Tênis Infantil Adidas Lite Racer CLN",
+      "price": 139.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-infantil-adidas-lite-racer-cln/36/NQQ-8001-036/NQQ-8001-036_detalhe1.jpg"
+    },
+    {
+      "id": 2,
+      "title":  "Tênis Nike Revolution 5 Masculino",
+      "price": 179.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/44/HZM-1731-844/HZM-1731-844_detalhe1.jpg"
+    },
+    {
+      "id": 3,
+      "title":  "Tênis Olympikus Attract Se 815",
+      "price": 79.99,
+      "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/20/D22-3836-120/D22-3836-120_detalhe1.jpg"
+    },
+    {
+      "id": 4,
+      "title":  "Bola de futsal Penalty Lider XXI",
+      "price": 99.99,
+      "image": "https://static.netshoes.com.br/produtos/bola-de-futsal-penalty-lider-xxi/24/D23-9780-024/D23-9780-024_zoom2.jpg"
+    },
+    {
+      "id": 5,
+      "title":  "Bola Adidas de Futebol Campo Cruzeiro",
+      "price": 129.90,
+      "image": "https://static.netshoes.com.br/produtos/bola-adidas-de-futebol-campo-cruzeiro-azul-e-dourado/86/3ZP-0774-286/3ZP-0774-286_zoom1.jpg"
+    },
+    {
+      "id": 6,
+      "title":  "Luva de Goleiro Juvenil Adidas Pretador 20 Training",
+      "price": 59.90,
+      "image": "https://static.netshoes.com.br/produtos/luva-de-goleiro-juvenil-adidas-pretador-20-training/02/NQQ-3458-002/NQQ-3458-002_zoom1.jpg"
+    },
+    {
+      "id": 7,
+      "title":  "Chuteira Campo Adidas Nemeziz 19 4",
+      "price": 109.99,
+      "image": "https://static.netshoes.com.br/produtos/chuteira-campo-adidas-nemeziz-19-4/23/NQQ-4009-223/NQQ-4009-223_zoom2.jpg"
+    },
+    {
+      "id": 8,
+      "title":  "Camisa Ciclismo Mountain Bike",
+      "price": 78.90,
+      "image": "https://static.netshoes.com.br/produtos/camisa-ciclismo-caloi-mountain-bike-masculina/08/D28-0458-008/D28-0458-008_detalhe1.jpg"
+    },
+    {
+      "id": 9,
+      "title":  "Mochila Militar Invictus - Defender Camulflado",
+      "price": 489.00,
+      "image": "https://static.netshoes.com.br/produtos/mochila-militar-invictus-defender-camuflado-multicam/90/T91-0009-190/T91-0009-190_zoom1.jpg"
+    }
+  ]
+}

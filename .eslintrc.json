@@ -1,0 +1,34 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "jest": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+      "react",
+      "react-hooks"
+    ],
+    "rules": {
+      "quotes": ["error", "single"],
+      "arrow-parens": ["error", "as-needed"],
+      "no-console":0,
+      // "comma-dangle": ["error", "never"],
+      "multiline-ternary": ["error", "always"],
+      "react/destructuring-assignment": ["off"],
+      "react/prop-types": "off",
+      "react-hooks/rules-of-hooks": "error", //Verificar regras dos hooks
+      "react-hooks/exhaustive-deps": "warn", // Verificar dependencias do useEffect
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+    }
+}
